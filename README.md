@@ -15,6 +15,7 @@ This is my collection of notes (in Jupyter Notebooks) for the fundamentals of ma
 
 TABLE OF CONTENTS:  
 1. Dimensionality Reduction  
+2. Classification  
 3. Clustering  
 7. Linear Regression  
 8. Ridge Regression and LASSO
