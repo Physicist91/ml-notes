@@ -18,5 +18,6 @@ TABLE OF CONTENTS:
 2. Classification  
 3. Clustering  
 4. Decision Tree  
+5. Random Forest  
 7. Linear Regression  
 8. Ridge Regression and LASSO
