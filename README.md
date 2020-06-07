@@ -17,5 +17,6 @@ TABLE OF CONTENTS:
 1. Dimensionality Reduction  
 2. Classification  
 3. Clustering  
+4. Decision Tree  
 7. Linear Regression  
 8. Ridge Regression and LASSO
