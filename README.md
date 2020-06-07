@@ -19,5 +19,7 @@ TABLE OF CONTENTS:
 3. Clustering  
 4. Decision Tree  
 5. Random Forest  
+6. Bayes Classifier  
 7. Linear Regression  
 8. Ridge Regression and LASSO
+9. Generative Classifiers  
