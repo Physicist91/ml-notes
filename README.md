@@ -23,3 +23,5 @@ TABLE OF CONTENTS:
 7. Linear Regression  
 8. Ridge Regression and LASSO
 9. Generative Classifiers  
+10. Logistic Regression  
+11. Neural Network
