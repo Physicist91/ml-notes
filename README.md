@@ -2,6 +2,7 @@
 
 Kevin Siswandi  
 https://github.com/Physicist91/ml-notes  
+Literature: http://www.deeplearningbook.org/  
 
 -------
 
